@@ -1,0 +1,3 @@
+[submodule "TCAT-Bus-Stop-Data"]
+	path = TCAT-Bus-Stop-Data
+	url = https://github.com/mahsu/TCAT-Bus-Stop-Data
